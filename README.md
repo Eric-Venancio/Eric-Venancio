@@ -1,5 +1,5 @@
-<img width="1280" height="160" alt="footer" src="https://github.com/user-attachments/assets/077efbda-6710-4938-bfc8-3cf544f5c841" />
-<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/6d39b811-810f-439c-b93d-601b69145021" />
+<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/0b0ebf70-72b6-4e5c-a47f-b8cface81c82" />
+
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
