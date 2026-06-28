@@ -29,7 +29,7 @@
 >
 > 🤖 Entusiasta de **programação, tecnologia, finanças e filosofia** — hoje estudo **programação aplicada ao mercado financeiro** e **Machine Learning** voltado a finanças e economia.
 >
-> 🤫 Gosto de silêncio, ideias e código que resolve problemas de verdade.
+>  Gosto de silêncio, ideias e código que resolve problemas de verdade.
 
 🇺🇸 *Economics undergraduate focused on **Corporate Finance (Financial BPO)**. I build systems and software that solve real business problems. Enthusiast of programming, technology, finance and philosophy — currently studying programming applied to financial markets and Machine Learning for finance & economics.*
 
