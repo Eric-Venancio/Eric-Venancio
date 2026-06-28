@@ -1,7 +1,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=220&section=header&text=Eric%20Ven%C3%A2ncio&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Economia%20%26%20Finan%C3%A7as%20%E2%80%A2%20Desenvolvimento%20de%20Solu%C3%A7%C3%B5es&descSize=18&descAlignY=56" width="100%"/>
+<img src="banner.png" alt="Eric Venâncio" width="100%"/>
 
 <!-- ====================== TYPING ====================== -->
 <a href="https://github.com/Eric-Venancio">
@@ -29,11 +29,7 @@
 >
 > 🤫 Gosto de silêncio, ideias e código que resolve problemas de verdade.
 
-<sub>
-
-*Economics undergraduate focused on **Corporate Finance (Financial BPO)**. I build systems and software that solve real business problems. Enthusiast of programming, technology, finance and philosophy — currently studying programming applied to financial markets and Machine Learning for finance & economics.*
-
-</sub>
+🇺🇸 *Economics undergraduate focused on **Corporate Finance (Financial BPO)**. I build systems and software that solve real business problems. Enthusiast of programming, technology, finance and philosophy — currently studying programming applied to financial markets and Machine Learning for finance & economics.*
 
 <br/>
 
@@ -111,4 +107,4 @@
 </div>
 
 <!-- ====================== FOOTER ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer&reversal=true" width="100%"/>
+<img src="footer.png" alt="" width="100%"/>
