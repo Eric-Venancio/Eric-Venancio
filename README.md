@@ -1,13 +1,11 @@
-<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/0b0ebf70-72b6-4e5c-a47f-b8cface81c82" />
-
 <!-- ====================== HEADER ====================== -->
-<div align="center">
+<img width="1280" height="320" alt="Eric Venâncio" src="https://github.com/user-attachments/assets/0b0ebf70-72b6-4e5c-a47f-b8cface81c82" />
 
-<img src="banner.png" alt="Eric Venâncio" width="100%"/>
+<div align="center">
 
 <!-- ====================== TYPING ====================== -->
 <a href="https://github.com/Eric-Venancio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=6366F1&center=true&vCenter=true&width=650&height=45&lines=Acad%C3%AAmico+em+Economia+%26+Finan%C3%A7as;Desenvolvedor+de+Solu%C3%A7%C3%B5es+Empresariais;Machine+Learning+aplicado+a+Finan%C3%A7as;Criar+solu%C3%A7%C3%B5es+para+o+futuro%2C+entregar+no+presente" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=6366F1&center=true&vCenter=true&width=650&height=45&lines=Economia+%26+Finan%C3%A7as;BPO+Financeiro+%26+Automa%C3%A7%C3%A3o;Machine+Learning+aplicado+a+Finan%C3%A7as;Criar+solu%C3%A7%C3%B5es+para+o+futuro%2C+entregar+no+presente" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,23 +23,34 @@
 <!-- ====================== SOBRE / ABOUT ====================== -->
 ## 🧠 Sobre mim · About me
 
-> 💼 **Acadêmico em Ciências Econômicas** com foco em **Finanças Empresariais (BPO Financeiro)**. Crio e desenvolvo sistemas e softwares que solucionam problemas empresariais reais.
+> 💼 **Acadêmico em Ciências Econômicas**, atuo com **BPO Financeiro**. Transformo rotinas financeiras, contábeis e fiscais repetitivas em processos automatizados, para que o tempo da equipe vá para análise, e não para digitação.
 >
-> 🤖 Entusiasta de **programação, tecnologia, finanças e filosofia** — hoje estudo **programação aplicada ao mercado financeiro** e **Machine Learning** voltado a finanças e economia.
+> 🤖 Hoje estudo **programação aplicada ao mercado financeiro** e **Machine Learning** voltado a finanças e economia.
 >
->  Gosto de silêncio, ideias e código que resolve problemas de verdade.
+> 🧭 Gosto de silêncio, ideias e código que resolve problemas de verdade.
 
-🇺🇸 *Economics undergraduate focused on **Corporate Finance (Financial BPO)**. I build systems and software that solve real business problems. Enthusiast of programming, technology, finance and philosophy — currently studying programming applied to financial markets and Machine Learning for finance & economics.*
+🇺🇸 *Economics undergraduate working in **Financial BPO**. I turn repetitive finance, accounting and tax routines into automated workflows. Currently studying programming for financial markets and Machine Learning for finance & economics.*
 
 <br/>
 
 | | |
 |---|---|
-| 🔭 **Atualmente · Currently** | Desenvolvimento de sistemas aplicados a soluções financeiras |
+| 🔭 **Atualmente · Currently** | Automação de rotinas financeiras, contábeis e fiscais |
 | 🌱 **Estudando · Learning** | Machine Learning aplicado a finanças & economia |
 | ✍️ **Curtições · I enjoy** | Programar, ler, escrever e filosofia |
-| 🧩 **Soft skills** | Comunicação · Trabalho em equipe · Liderança · Resolução de problemas |
 | 💬 **Idiomas · Languages** | 🇧🇷 Português · 🇺🇸 English |
+
+<br/>
+
+<!-- ====================== AUTOMAÇÕES ====================== -->
+## ⚙️ O que eu automatizo · What I automate
+
+| Área · Area | Exemplos · Examples |
+|---|---|
+| 💰 **Financeiro** | Contas a pagar, conciliação de taxas de cartão, importação de extratos |
+| 📑 **Contábil** | Confronto de contas pagas com a contabilidade, conferência de lançamentos |
+| 🧾 **Fiscal** | Conferência de ICMS e entradas do SPED contra as notas fiscais |
+| 📈 **Gestão** | Indicadores financeiros para pequenos negócios, como restaurantes |
 
 <br/>
 
@@ -59,20 +68,11 @@
 <br/>
 
 <!-- ====================== STATS ====================== -->
-## 📊 GitHub Stats
+## 📊 Atividade · Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eric-Venancio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Venancio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Eric-Venancio&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eric-Venancio&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
 
 </div>
 
@@ -107,10 +107,3 @@
 </a>
 
 </div>
-
-<!-- ====================== FOOTER ====================== -->
-<img src="footer.png" alt="" width="100%"/>
-
-
-
-
